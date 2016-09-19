@@ -1,0 +1,14 @@
+footer {
+            text-align: center;
+            width: 100%;
+            bottom: 0;
+        }
+.badge{
+    background: #42ACE1;
+}
+.form{
+    padding-left: 20px;
+}
+#selForm{
+    padding-left: 15px;
+}
